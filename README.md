@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Uma página web com previsões do tempo e clima em tempo real, aonde o usuário pode ter informações da sua localização atual ou de outro que desejar buscar, basta adicionar lugar específico na barra de pesquisa.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://dlucassilva.github.io/TempoClima/)
 
 ---
 
